@@ -6,7 +6,7 @@ package student;
 
 /**
  *
- * @author nbui6
+ * @author Natalee Bui
  */
 public class Student{
 
