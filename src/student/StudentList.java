@@ -9,6 +9,7 @@ package student;
  * @author nbui6
  */
 public class StudentList {
+    //add comments
     public static void main (String[] args){
     Student[] StudentList = new Student[3];
     StudentList[0] = new Student("s1", "nhi");
